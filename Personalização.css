@@ -1,0 +1,21 @@
+body{
+    border:solid red;
+    }
+    h1{
+        border:solid red;
+        background-color: mediumturquoise;
+        font-family: cursive;
+    }
+    h2{
+    
+    }
+    p{
+        border:solid red;
+        background-color: mediumseagreen;
+        font-family: cursive;
+        padding: 80px;
+        
+    }
+    .teste{
+        background-color: lime;
+    }
